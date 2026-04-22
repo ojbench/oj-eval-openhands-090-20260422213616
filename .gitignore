@@ -1,0 +1,19 @@
+# Ignore build artifacts
+
+# binaries
+/test
+*.out
+*.exe
+
+# objects
+*.o
+*.obj
+
+# logs
+*.log
+
+# build dirs
+build/
+
+# misc
+.DS_Store
